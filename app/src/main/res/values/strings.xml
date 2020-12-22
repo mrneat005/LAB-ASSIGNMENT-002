@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB-ASSIGNMENT-02</string>
+    <string name="play_txt">play</string>
+    <string name="stop_txt">stop</string>
+</resources>
